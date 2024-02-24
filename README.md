@@ -1,4 +1,0 @@
-# credit card fraud detection [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyakaras%2Fcredit-card-fraud-detection.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyakaras%2Fcredit-card-fraud-detection?ref=badge_shield) [![CircleCI](https://dl.circleci.com/status-badge/img/circleci/EnnCCZ3M68XPihmt3acntX/BChM4tfSHjtnuZXhZX4gzv/tree/main.svg?style=shield&circle-token=6ba663872e34b0e6bbaa326cb5dae9a53c139d2c)](https://dl.circleci.com/status-badge/redirect/circleci/EnnCCZ3M68XPihmt3acntX/BChM4tfSHjtnuZXhZX4gzv/tree/main) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-
-
-Application to differentiate counterfeit transactions from genuine ones
